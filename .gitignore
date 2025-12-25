@@ -1,0 +1,20 @@
+# Environment
+.env
+.env.*
+
+# Dependencies
+node_modules/
+vendor/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build artifacts
+dist/
+build/
+
+# OS
+.DS_Store
